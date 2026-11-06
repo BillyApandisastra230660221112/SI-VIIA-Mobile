@@ -54,6 +54,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/WendiFeriyanda">
+        <img src="https://avatars.githubusercontent.com/u/202412016?v=4&s=200" width="100px;" alt="WendiFeriyanda"/><br>
+        <sub><b>Wendi F (230660221026)</b></sub>
+      </a><br>
+      <sub>Mahasiswa</sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/230660221009">
         <img src="https://avatars.githubusercontent.com/u/203071958?v=4&s=200" width="100px;" alt="230660221009"/><br>
         <sub><b>ADE YUSUP MAULANA</b></sub>
@@ -61,27 +68,20 @@
       <sub>230660221009</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Nazwa230660221104">
-        <img src="https://avatars.githubusercontent.com/u/203066217?v=4&s=200" width="100px;" alt="Nazwa230660221104"/><br>
-        <sub><b>Nazwa230660221104</b></sub>
-      </a><br>
-      <sub>230660221104</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/WendiFeriyanda">
-        <img src="https://avatars.githubusercontent.com/u/202412016?v=4&s=200" width="100px;" alt="WendiFeriyanda"/><br>
-        <sub><b>Wendi F (230660221026)</b></sub>
-      </a><br>
-      <sub>Mahasiswa</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/ameliaoktaviani">
         <img src="https://avatars.githubusercontent.com/u/203069235?v=4&s=200" width="100px;" alt="ameliaoktaviani"/><br>
         <sub><b>ameliaoktaviani</b></sub>
       </a><br>
       <sub>230660221127</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Nazwa230660221104">
+        <img src="https://avatars.githubusercontent.com/u/203066217?v=4&s=200" width="100px;" alt="Nazwa230660221104"/><br>
+        <sub><b>Nazwa230660221104</b></sub>
+      </a><br>
+      <sub>230660221104</sub>
     </td>
     <td align="center">
       <a href="https://github.com/nisa230660221023">
@@ -104,7 +104,7 @@
         <img src="https://avatars.githubusercontent.com/u/203070532?v=4&s=200" width="100px;" alt="lalajalaliah"/><br>
         <sub><b>lalajalaliah</b></sub>
       </a><br>
-      <sub>230660221104</sub>
+      <sub>230660221026</sub>
     </td>
     <td align="center">
       <a href="https://github.com/sesipramesti05">
@@ -141,7 +141,7 @@
         <img src="https://avatars.githubusercontent.com/u/28897?v=4&s=200" width="100px;" alt="ferry"/><br>
         <sub><b>ferry</b></sub>
       </a><br>
-      <sub>230660221104</sub>
+      <sub>230660221026</sub>
     </td>
   </tr>
 </table>
