@@ -7,8 +7,6 @@
 | **Kelas** | SI-VIIA |
 | **Domain SI** | Pelaporan kerusakan fasilitas kampus (sarana dan prasarana) |
 | **Judul Aplikasi** | SiLapor Kampus |
-| **Tautan Repository** | https://github.com/PBWFEND/SI-VIIA-Mobile/tree/230660221002/tugas-8 |
-
 ---
 
 ## 1. Ringkasan Eksekutif Project
